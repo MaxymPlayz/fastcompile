@@ -5,4 +5,4 @@
 
 thats all i wanted to say xd haha
 
-#### also, if your looking for the download page, go to the [releases of this repository](https://github.com/MaxymPlayz/fastcompiler/releases)
+#### also, if your looking for the download page, go to the [releases of this repository](https://github.com/MaxymPlayz/fastcompile/releases)
